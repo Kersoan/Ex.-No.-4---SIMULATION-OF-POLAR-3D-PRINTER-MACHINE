@@ -1,6 +1,4 @@
-# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
-### DATE: 
+# Ex-04---SIMULATION OF POLAR 3D PRINTER MACHINE
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -71,7 +69,7 @@ Filament is the material used in 3D printing, usually in the form of a long, thi
 ![image](https://github.com/amrutha23ashok/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120772913/3c04f6e7-f8ca-4d25-85e3-13ac27bdbefc)
 
 
-### Name:V.A.JITHENDRA
-### Register Number:2122221230043
+### Name: KERSOAN P
+### Register Number:212221230050
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
